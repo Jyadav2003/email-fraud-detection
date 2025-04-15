@@ -1,1 +1,1 @@
-# email-fraud-detection
+# Email-Fraud-Detection
